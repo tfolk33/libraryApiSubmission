@@ -1,7 +1,7 @@
 # libraryApiSubmission
 Hey y'all! Thanks for this opportunity to demonstrate my ability through this coding assignment. I really enjoyed working on it and I hope you can review it without any issues. Here are the details.
 
-# Implementation
+# Implementation Details
 I chose to implement this API using the FastAPI webframework with Python. I chose this framework for its fast processing, built-in parameter validation, error handling, and ease of testing.
 
 I have implemented 10 API routes that correspond directly with the 10 operations named in the instructions.
